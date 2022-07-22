@@ -35,13 +35,13 @@ public class AllTests {
 	}
 	
 	
-	/*@AfterClass
+	@AfterClass
 	
 	public static void tearDown() {
 		
 		driver.quit();
 		
-	}*/
+	}
 	
 
 }
